@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="sensors_show">Policz czujniki</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="missing_sensor">Sensor nie wykryty</string>
+    <string name="Light_sensor_label">Czujnik swiatla</string>
+    <string name="Light_sensor_value">Wartość: %1$f</string>
+    <string name="Humidity_sensor_label">Czujnik wilgotności</string>
+    <string name="Humidity_sensor_value">Wartość: %1$f</string>
+    <string name="location_permission_denied">Odrzucono prośbę o permisje</string>
+    <string name="location_text">"Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="no_location">Brak znalezionej lokalizacji</string>
+    <string name="address_text">"Adres: %1$s \n Czas: %2$tr"</string>
+    <string name="service_not_available">Usługa niedostępna</string>
+    <string name="no_address_found">Nie znaleziono adresu</string>
+</resources>
